@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rik-rosseel
 - 👀 I’m interested in Coding and Sports
 - 🌱 I’m currently learning Web development, both front-end and back-end
-- 📫 How to reach me via my contact page on my github page
+- 📫 Reach me via my contact page on my github page
 
 <!---
 rik-rosseel/rik-rosseel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
