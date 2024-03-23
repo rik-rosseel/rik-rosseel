@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rik-rosseel
-- 👀 I’m interested in Coding and Sports
-- 🌱 I’m currently learning Web development, both front-end and back-end
+- 👀 I’m interested in Coding, Woodworking and Sports
+- 🌱 I’m currently studying Applied Computer Science
 - 📫 Reach me via my contact page on my github page
 
 <!---
